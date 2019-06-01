@@ -1,0 +1,61 @@
+body {
+	background: url(../img/fond1.jpg) no-repeat fixed;
+	-webkit-background-size:cover;
+}
+.one {
+	background-color: rgba(0, 64, 153, 0.7);
+	-webkit-background-size:cover;
+	height: 500px;
+  	max-width: 100%;
+	text-align: center;
+	color:#FFFFFF;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+.zz {
+	color: #FFFFFF;
+	border:1px #FFFFFF;
+}
+h1 {
+	font-family: algerian;
+	font-size: 70px;
+}
+.bl {
+	background-color: black;
+}
+hr {
+	background-color: black;
+}
+.wit {
+	background-color: white;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+.im {
+	padding: 0 !important;
+	margin: 0 !important;
+	width: 100%;
+	height: 100%;
+}
+h2 {
+	font-family: algerian;
+	text-align: center;
+}
+.trd {
+	color: red;
+	text-align: center;
+}
+.ce{
+	text-align: center;
+}
+.bl {
+	background-color: green;
+}
+.in {
+	width: 100%;
+	height: 400px;
+}
+h3 {
+	color:purple;
+	text-align: center;
+}
